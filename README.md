@@ -12,4 +12,12 @@ Arduino IDE 安装与 ESP32 环境配置
 # 添加 lab02
 基础IO实验 - LED闪烁控制
 
-# LED 打卡
+# 添加 lab03
+LED呼吸灯
+
+# 添加 ex02
+查阅 Arduino 库中的 `millis()` 函数（获取系统运行毫秒数）
+用 `millis()` 函数控制LED以1Hz的频率稳定闪烁；
+
+# 添加 ex03
+SOS信号：连续三次短闪，三次长闪，再三次短闪。每次SOS播放完毕后有较长的熄灭停顿。
